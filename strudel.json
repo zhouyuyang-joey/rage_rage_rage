@@ -1,0 +1,46 @@
+{
+    "_base": "https://raw.githubusercontent.com/zhouyuyang-joey/rage_rage_rage/main/",
+    "scars": "scars/shs_rage_guitar_loop_160_scars_Fm.wav",
+    "roh": "roh/shs_rage_hihat_shot_open_dilema.wav",
+    "guitar_loop": [
+        "guitar_loop/shs_rage_guitar_loop_155_croon_Dm.wav",
+        "guitar_loop/shs_rage_guitar_loop_160_atol_C#m.wav"
+    ],
+    "drum_loop": [
+        "drum_loop/shs_rage_drum_loop_125_breed_top.wav",
+        "drum_loop/shs_rage_drum_loop_140_bark_full.wav",
+        "drum_loop/shs_rage_drum_loop_150_lingua_full.wav",
+        "drum_loop/shs_rage_drum_loop_160_curmudgeon_full.wav",
+        "drum_loop/shs_rage_drum_loop_170_crux_full.wav",
+        "drum_loop/shs_rage_drum_loop_180_throes_full.wav"
+    ],
+    "fx": "fx/shs_rage_horror_loop_150_scavenge.wav",
+    "rhh": "rhh/shs_rage_hihat_shot_closed_polish.wav",
+    "end": "end/shs_rage_808_bass_shot_amnesia_C.wav",
+    "where_will_u_go": "where_will_u_go/where_will_you_go.wav",
+    "vox": [
+        "vox/Soundiron_VORage_Phrase_Aaron_Death_Breakable_B5_22.wav",
+        "vox/Soundiron_VORage_Phrase_Aaron_Death_Mummified_H6_49.wav",
+        "vox/Soundiron_VORage_Phrase_Aaron_Death_Unlearning_H6_68.wav",
+        "vox/Soundiron_VORage_Phrase_Aaron_Death_Unlearning_I1_38.wav"
+    ],
+    "growl": "growl/growl.wav",
+    "rcymbal": "rcymbal/shs_rage_cymbal_shot_strut.wav",
+    "rbass": "rbass/shs_rage_808_bass_shot_amp_2_C.wav",
+    "rsd": [
+        "rsd/shs_rage_snare_shot_precise.wav",
+        "rsd/shs_rage_snare_shot_slam.wav"
+    ],
+    "rbd": "rbd/shs_rage_kick_shot_focus.wav",
+    "rperc": [
+        "rperc/shs_rage_metallic_shot_chain_1.wav",
+        "rperc/shs_rage_metallic_shot_grate_1.wav",
+        "rperc/shs_rage_metallic_shot_grate_2.wav",
+        "rperc/shs_rage_metallic_shot_hat_1.wav",
+        "rperc/shs_rage_metallic_shot_rattle_1.wav",
+        "rperc/shs_rage_metallic_shot_tin_3.wav"
+    ],
+    "kick_loop": "kick_loop/shs_rage_drum_loop_160_gag_kick.wav",
+    "away_from_mankind": "away_from_mankind/0.wav",
+    "jandh":"Jekyll-And-Hyde.wav"
+}
